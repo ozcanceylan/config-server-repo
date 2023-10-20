@@ -1,0 +1,12 @@
+spring.datasource.url = jdbc:mysql://localhost:3306/admin_turkiyepazari
+spring.datasource.username = admin_turkiyepazari
+spring.datasource.password = 8kdN8*P=UgdP
+
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect
+
+spring.jpa.hibernate.ddl-auto = update
+
+logging.level.root=ERROR
+spring.main.banner-mode=off
+
+server.port = 9000
